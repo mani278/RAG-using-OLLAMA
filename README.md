@@ -3,7 +3,7 @@
 ### Setting up Ollama:
 Download and install Ollama from https://ollama.com/download
 
-open **cmd** and type ***ollama --version***. If it shows the version, it is installed, otherwise reinstall.
+open **cmd** and type ***ollama --version***. If it shows the version, it is installed, otherwise re-install.
 
 ### Downloading Model:
 In **cmd** type *ollama pull {model_name}*. For example, ***ollama pull gemma:2b***.
